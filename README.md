@@ -1,3 +1,3 @@
 # CI Test demo
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1csky4k475fsh82c?svg=true)](https://ci.appveyor.com/project/AnytaLeon/unit-test-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/k7rujgemgvxjwnwj?svg=true)](https://ci.appveyor.com/project/AnytaLeon/unit-test-2)
